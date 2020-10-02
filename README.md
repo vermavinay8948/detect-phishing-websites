@@ -1,4 +1,5 @@
-# Phishing website detection
+# Phishing website detection - phishing is a crime..we have to stop it.
+
 
 This experiment was created using machine learning algorithms with turicreate. 
 
@@ -9,7 +10,7 @@ Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Phishing+We
 
 turicreate: https://github.com/apple/turicreate
 
-## Accuracy Results
+## Accuracy Results  - Machine learning algorithms
 
 1. Boosted Decision Tree = 0.913~  (Lowest)
 2. Decision Tree         = 0.926~
@@ -70,7 +71,7 @@ turicreate: https://github.com/apple/turicreate
   $ python script.py
   ``` 
  
-## DataSet
+## DataSet--Required attributes
 Based on the following attributes: 
 
  * having_IP_Address  { -1,1 } 
